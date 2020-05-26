@@ -23,7 +23,7 @@ namespace EZurnals.Logic.EZurnalsDB
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\User\\Desktop\\Accenture-projekti\\E-Zurnals\\EZurnalsDB.mdf;Integrated Security=True;Connect Timeout=30");
+                optionsBuilder.UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\User\\Desktop\\Accenture-projekti\\E-Zurnals2\\EZurnalsDB.mdf;Integrated Security=True;Connect Timeout=30");
             }
         }
 

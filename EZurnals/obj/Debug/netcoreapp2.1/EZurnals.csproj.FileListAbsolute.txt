@@ -1,0 +1,129 @@
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.deps.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.runtimeconfig.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.runtimeconfig.dev.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.dll
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.pdb
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Views.dll
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Views.pdb
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.AssemblyInfo.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.TagHelpers.input.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.TagHelpers.output.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.Views.pdb
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.dll
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.pdb
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.genruntimeconfig.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csproj.CopyComplete
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Add.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddS.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\IndexS.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\AddG.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\IndexG.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\ViewSubjectGrades.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentGrades.cshtml.g.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.deps.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.runtimeconfig.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.runtimeconfig.dev.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Views.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Views.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.AssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.TagHelpers.input.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.TagHelpers.output.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\AddG.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\IndexG.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\ViewSubjectGrades.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddS.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\IndexS.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentGrades.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Add.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.Views.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csproj.CopyComplete
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.genruntimeconfig.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.deps.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.runtimeconfig.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.runtimeconfig.dev.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Views.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Views.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\bin\Debug\netcoreapp2.1\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.AssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.TagHelpers.input.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.TagHelpers.output.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\AddG.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\IndexG.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Grade\ViewSubjectGrades.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\AddS.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\IndexS.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewStudentGrades.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Add.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.Views.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.csproj.CopyComplete
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals\obj\Debug\netcoreapp2.1\EZurnals.genruntimeconfig.cache

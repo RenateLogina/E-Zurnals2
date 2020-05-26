@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.deps.json
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.AssemblyInfo.cs
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture projekti\Net_Samples\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.deps.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.AssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.deps.json
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\bin\Debug\netstandard2.0\EZurnals.Logic.pdb
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.AssemblyInfo.cs
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.dll
+C:\Users\User\Desktop\Accenture-projekti\E-Zurnals2\EZurnals.Logic\obj\Debug\netstandard2.0\EZurnals.Logic.pdb
