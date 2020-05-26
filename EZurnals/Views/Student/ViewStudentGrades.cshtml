@@ -1,0 +1,37 @@
+﻿@model StudentModel
+@{
+    ViewData["Title"] = "View Student";
+}
+<!-- Te rādās kļūda! -->
+    <h2>@Model.Name @Model.Surname @Model.Klase</h2>
+<h4>
+    Vidējā atzīme: @Model.AverageGrade
+</h4>
+
+@if(Model.Grades != null)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>Priekšmets</th>
+            <th>Apraksts</th>
+            <th>Vērtējums</th>
+        </tr>
+        @foreach (var grade in Model.Grades)
+        {
+            <tr>
+                <td>@grade.SubjectName</td>
+                <td>@grade.Comment</td>
+                <td>@grade.Grade</td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <div>Šim skolniekam atzīmes nav</div>
+}
+
+
+
+
+
